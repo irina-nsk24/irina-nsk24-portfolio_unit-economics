@@ -1,2 +1,2 @@
-# irina-nsk24-portfolio_unit-economics
+# portfolio_unit-economics
 Репозиторий содержит проекты, выполненные в ходе прохождения курсов по анализу данных
